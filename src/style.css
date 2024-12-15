@@ -48,7 +48,7 @@ h2 {
   font-size: 64px;
 }
 
-h4 {
+h3 {
   font-size: 48px;
 }
 
@@ -61,7 +61,7 @@ p {
 .hero {
   background-color: var(--secondary-color);
   text-align: center;
-  padding: 140px 20px;
+  padding: 100px 20px;
 }
 
 .content {
@@ -84,7 +84,7 @@ p {
 }
 
 .content-container {
-  padding: 140px 20px;
+  padding: 100px 20px;
 }
 
 .content h1 {
